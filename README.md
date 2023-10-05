@@ -38,7 +38,7 @@
 
 Driver functions were implemented to show the functions of implemented functions.
 
-```cmd
+```cpp
     nums.push_front(3);
     nums.push_back(2);
     nums.push_front(1);
