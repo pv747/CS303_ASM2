@@ -13,9 +13,20 @@
   * find(val)
 
 
-2. Implementation with a 'Professional' and 'Nonprofessional' class derived from 'Employee' base class. The derived classes contain the following methods to calculate their salary, healthcare contributions and vacation days earned that week:
+2. Implementation with a 'Professional' and 'Nonprofessional' class derived from 'Employee' base class. The Employee class contains attributes such as: id, name, total_salary, total_healthcare_contrb and total_vacation_days. total_salary, total_healthcare_contrb_ and total_vacation_days can be accessed using the following: 
+  * getTotalSalary()
+  * getHealthcareContrb()
+  * getTotalVacationDays()
+
+  The derived classes contain the following methods to calculate their salary, healthcare contributions and vacation days earned that week:
+  * Professional() / Nonprofessional() constructors
   * calculateWeekSalary()
   * calculateHealthcareContrb()
   * calculateVacationDays()
+
+-------
+
+
+
 
 
