@@ -39,11 +39,23 @@
 Driver functions were implemented to show the functions of implemented functions.
 
 ```cpp
+Single_Linked_List<int> nums;
     nums.push_front(3);
     nums.push_back(2);
     nums.push_front(1);
     nums.insert(1, 4);
+    cout << "The list is currently " << (nums.empty() ? "empty" : "not empty") << endl;
+    cout << "The first value of the list is " << nums.front() << endl;
+    cout << "The last value of the list is " << nums.back() << endl;
+    cout << "The value 4 is found at index " << nums.find(4) << endl;
+    nums.remove(0);
+    cout << "After removing the first value, the new first value is " << nums.front();
 ```
+
+After the execution of these functions, nums will contain the following values:
+  1 -> 4 -> 3 -> 2
+
+
 
 
 
