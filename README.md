@@ -29,7 +29,7 @@
   * getTotalVacationDays() => double
 
    The derived classes contain the following methods to calculate their salary, healthcare contributions and vacation days earned that week:
-  * Professional() / Nonprofessional() constructors
+  * Professional(id, name, monthly_salary) / Nonprofessional(id, name, hourly_rate, hours_worked_per_week) constructors
   * calculateWeekSalary() => double
   * calculateHealthcareContrb() => double
   * calculateVacationDays() => double
