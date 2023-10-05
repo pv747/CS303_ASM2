@@ -2,25 +2,25 @@
 
 1. Implementation of a Single_Linked_List class with the following functions:
   * push_front(val) => void
-    -Adds value to front of list
+    - Adds value to front of list
   * push_back(val) => void
-    -Adds value to back of list
+    - Adds value to back of list
   * pop_front() => void
-    -Removes value from front of list
+    - Removes value from front of list
   * pop_back() => void
-    -Removes value from back of list
+    - Removes value from back of list
   * front() => type T
-    -Returns value from front of list
+    - Returns value from front of list
   * back() => type T
-    -Returns value from back of list
+    - Returns value from back of list
   * empty() => boolean
-    -Returns boolean representative of whether list is empty
+    - Returns boolean representative of whether list is empty
   * insert(index, val) => void
-    -Inserts specified value at specified index
+    - Inserts specified value at specified index
   * remove(index) => boolean
-    -Removes value at specified index
+    - Removes value at specified index
   * find(val) => size_t
-    -Finds specified value in list
+    - Finds specified value in list
 
 
 2. Implementation with a 'Professional' and 'Nonprofessional' class derived from 'Employee' base class. The Employee class contains attributes such as: id, name, total_salary, total_healthcare_contrb and total_vacation_days. total_salary, total_healthcare_contrb_ and total_vacation_days can be accessed using the following: 
