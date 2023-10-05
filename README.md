@@ -28,7 +28,7 @@
   * getHealthcareContrb() => double
   * getTotalVacationDays() => double
 
-  The derived classes contain the following methods to calculate their salary, healthcare contributions and vacation days earned that week:
+   The derived classes contain the following methods to calculate their salary, healthcare contributions and vacation days earned that week:
   * Professional() / Nonprofessional() constructors
   * calculateWeekSalary() => double
   * calculateHealthcareContrb() => double
