@@ -35,7 +35,7 @@
   * calculateVacationDays() => double
 
 -------
-[Single_Linked_List]
+#####Single_Linked_List
 Driver functions were implemented to show the functions of implemented functions.
 
 Single Linked List driver function executes the following:
@@ -60,7 +60,7 @@ The CLI output of the Single Linked List driver function is:
 
 ![alt text](https://github.com/pv747/CS303_ASM2/blob/306c8d5c06b43ccfbbbf5b73db44ec0f40b1ea6c/Screenshots/Single_Linked_List_driver.png)
 
-[Nonprofessional/Professional Employee]
+#####Nonprofessional/Professional Employee
 
 Employee driver function executes the following:
 
